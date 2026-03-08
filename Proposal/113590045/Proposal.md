@@ -47,5 +47,3 @@
     - [ ] Debug
 - week 17:
     - [ ] Debug
-- week 18:
-    - [ ] Debug
