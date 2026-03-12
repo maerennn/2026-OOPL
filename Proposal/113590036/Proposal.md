@@ -60,7 +60,9 @@ Week 08: Combat System
 
 Week 09: Midterm Demo
 
-[ ] Complete the fundamental game loop
+[ ] Implement Sun Generation System (from Sunflowers and skydrops)
+
+[ ] Implement planting currency 
 
 [ ] Showcase a playable demonstration level
 
@@ -88,17 +90,17 @@ Week 13: Resource System
 
 [ ] Implement planting costs and consumption mechanics
 
-Week 14: Level Progression (Levels 1.1 - 1.5)
+Week 14: Level Progression (Stage 1: Levels 1.1 - 1.3)
 
-[ ] Design level-specific layouts and difficulty
+[ ] Design specific wave patterns for early levels
 
-[ ] Program zombie spawn "waves" and timing
+[ ] Balance difficulty and plant availability for 1.1 - 1.3
 
-Week 15: Level Progression (Levels 1.6 - 1.10)
+Week 15: Level Progression (Stage 2: Levels 1.4 - 1.5)
 
-[ ] Design advanced levels and wave patterns
+[ ] Design wave patterns and difficulty scaling for Levels 1.4 - 1.5
 
-[ ] Implement the Level 1-10 special mechanics
+[ ] Test end-to-end gameplay loop for the first five levels
 
 Week 16: Animation & Audio
 
@@ -108,7 +110,7 @@ Week 16: Animation & Audio
 
 Week 17: Testing, Final Polish, & Final Submission
 
-[ ] Conduct end-to-end testing of all 10 levels
+[ ] Conduct end-to-end testing of levels
 
 [ ] Fix remaining bugs and fine-tune game balance
 
